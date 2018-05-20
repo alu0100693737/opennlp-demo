@@ -1,3 +1,5 @@
+https://travis-ci.org/alu0100693737/opennlp-demoFinal.svg?branch=master
+
 Code to accompany Phil's June 2015 Tri-JUG presentation
 on OpenNLP.
 
