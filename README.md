@@ -1,4 +1,4 @@
-https://travis-ci.org/alu0100693737/opennlp-demoFinal.svg?branch=master
+[![Build Status](https://travis-ci.org/alu0100693737/opennlp-demoFinal.svg?branch=master)](https://travis-ci.org/alu0100693737/opennlp-demoFinal)
 
 Code to accompany Phil's June 2015 Tri-JUG presentation
 on OpenNLP.
